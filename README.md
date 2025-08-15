@@ -1,5 +1,5 @@
 # daily_update.py
-from datetime import datetime
+from datetime import datetim
 
 def main():
     today = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
